@@ -1,0 +1,48 @@
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe.config
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.pdb
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\Chat2\Server\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\Chat2\Server\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\Chat2\Server\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\Chat2\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chat2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chat2\Server\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\bin\Debug\Server.exe
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\bin\Debug\Server.pdb
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\obj\Debug\Server.exe
+C:\Users\Oleg Zhuvak\source\repos\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\new\Server\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\new\Server\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\new\Server\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\new\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\new\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new\Server\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\new\Server\Server\obj\Debug\Server.pdb
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\bin\Debug\Server.exe.config
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\bin\Debug\Server.exe
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\bin\Debug\Server.pdb
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.exe
+F:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.pdb
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\bin\Debug\Server.exe.config
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\bin\Debug\Server.exe
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\bin\Debug\Server.pdb
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.exe
+G:\учеба 7 трим\Клиент-сервер\new\Server\Server\obj\Debug\Server.pdb
+F:\Клиент-сервер\Server\Server\bin\Debug\Server.exe.config
+F:\Клиент-сервер\Server\Server\bin\Debug\Server.exe
+F:\Клиент-сервер\Server\Server\bin\Debug\Server.pdb
+F:\Клиент-сервер\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+F:\Клиент-сервер\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Клиент-сервер\Server\Server\obj\Debug\Server.exe
+F:\Клиент-сервер\Server\Server\obj\Debug\Server.pdb
