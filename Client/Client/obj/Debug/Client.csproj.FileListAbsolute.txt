@@ -1,0 +1,195 @@
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\bin\Debug\Client.exe.config
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\bin\Debug\Client.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\bin\Debug\Client.pdb
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\obj\Debug\Client.ChatForm.resources
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\obj\Debug\Client.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Client\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\Chat2\Client\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\Chat2\Client\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\Chat2\Client\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.ChatForm.resources
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\Chat2\Client\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\new\Client\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\new\Client\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\new\Client\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.ChatForm.resources
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\new\Client\Client\obj\Debug\Client.pdb
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\bin\Debug\Client.exe.config
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\bin\Debug\Client.exe
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\bin\Debug\Client.pdb
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.ChatForm.resources
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.exe
+G:\учеба 7 трим\Клиент-сервер\new\Client\Client\obj\Debug\Client.pdb
+F:\Клиент-сервер\Client\Client\bin\Debug\Client.exe.config
+F:\Клиент-сервер\Client\Client\bin\Debug\Client.exe
+F:\Клиент-сервер\Client\Client\bin\Debug\Client.pdb
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.ChatForm.resources
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.exe
+F:\Клиент-сервер\Client\Client\obj\Debug\Client.pdb
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\bin\Debug\Client.exe
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\bin\Debug\Client.pdb
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.ChatForm.resources
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.exe
+C:\Users\Иван\Downloads\Клиент-сервер\Клиент-сервер\Client\Client\obj\Debug\Client.pdb
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\bin\Debug\Client.exe.config
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\bin\Debug\Client.exe
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\bin\Debug\Client.pdb
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.ChatForm.resources
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.exe
+C:\Users\79091\source\repos\Клиент-сервер\Client\Client\obj\Debug\Client.pdb
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\bin\Debug\Client.exe.config
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\bin\Debug\Client.exe
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\bin\Debug\Client.pdb
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.ChatForm.resources
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.exe
+G:\Клиент-сервер\Клиент-сервер версия 3\Клиент-сервер\Client\Client\obj\Debug\Client.pdb
+H:\Клиент-сервер\Client\Client\bin\Debug\Client.exe.config
+H:\Клиент-сервер\Client\Client\bin\Debug\Client.exe
+H:\Клиент-сервер\Client\Client\bin\Debug\Client.pdb
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.ChatForm.resources
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.Properties.Resources.resources
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.exe
+H:\Клиент-сервер\Client\Client\obj\Debug\Client.pdb
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\bin\Debug\Client.exe.config
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\bin\Debug\Client.exe
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\bin\Debug\Client.pdb
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.ChatForm.resources
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.exe
+G:\Клиент-сервер\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.pdb
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\bin\Debug\Client.exe.config
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\bin\Debug\Client.exe
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\bin\Debug\Client.pdb
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.ChatForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.exe
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 3\Client\Client\obj\Debug\Client.pdb
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\Client.exe.config
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\Client.exe
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\Client.pdb
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.ChatForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.exe
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.pdb
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.LoginForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\MySql.Data.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\System.Memory.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\System.Buffers.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\bin\Debug\MySql.Data.xml
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.RegisterForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 4\Client\Client\obj\Debug\Client.RecoveryLoginPassForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\Client.exe.config
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\Client.exe
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\Client.pdb
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\MySql.Data.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Memory.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Buffers.dll
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\MySql.Data.xml
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.ChatForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.LoginForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.RecoveryLoginPassForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.RegisterForm.resources
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.exe
+D:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.pdb
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\Client.exe.config
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\Client.exe
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\Client.pdb
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Memory.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\System.Buffers.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\bin\Debug\MySql.Data.xml
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.ChatForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.LoginForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.RecoveryLoginPassForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.RegisterForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.csproj.Up2Date
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.exe
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.pdb
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.PasswordRecoveryCodeForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 5\Client\Client\obj\Debug\Client.ChangePasswordForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\Client.exe.config
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\Client.exe
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\Client.pdb
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\System.Memory.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\System.Buffers.dll
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\bin\Debug\MySql.Data.xml
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.ChangePasswordForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.ChatForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.LoginForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.PasswordRecoveryCodeForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.RecoveryLoginPassForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.RegisterForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.csproj.Up2Date
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.exe
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.pdb
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.DownLoadFileForm.resources
+E:\ПРОЕКТ ДЛЯ РАБОТЫ\Клиент-сервер версия 6\Client\Client\obj\Debug\Client.UpLoadFileForm.resources
